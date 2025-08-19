@@ -129,13 +129,19 @@
 }
 
 .add-to-cart-button:hover {
+
   background-color: #12ce44; /* Darker blue on hover */
+
 }
 
 .read-more-toggle-button {
   background: none;
   border: none;
+
   color: #eb25a9; /* change to pink color */
+
+  
+
   cursor: pointer;
   font-size: 16px;
   font-weight: 500;
