@@ -19,7 +19,7 @@
     flex-direction: row; /* Layout sections horizontally on wider screens */
   }
   .image-section {
-    width: 51%; /* Image section takes half width */
+    width: 50%; /* Image section takes half width */
   }
   .info-section {
     width: 50%; /* Info section takes half width */
